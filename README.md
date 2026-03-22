@@ -19,13 +19,10 @@ I build full-stack and backend-focused systems that solve real-world problems, f
 
 **Languages:**  
 Java • JavaScript • Kotlin • Python • C/C# • VB.NET  
-
 **Frameworks & Tools:**  
 React.js • Next.js • ASP.NET • Flask • Jetpack Compose  
-
 **Database:**  
 MSSQL • Supabase • Firebase  
-
 **Others:**  
 Linux • IoT • Data Structures & Algorithms  
 
@@ -33,29 +30,34 @@ Linux • IoT • Data Structures & Algorithms
 
 ## 🚀 Featured Projects
 
-### 🔹 SteelSmart AI Marketplace  
+### 🔹 SteelSmart AI Marketplace  🤖
 AI-powered CAD generation + RFQ workflow platform  
+*(Cursor X Anthropic Hackathon: Convex Track 2nd Place 🥈)*
 - Reduced CAD creation time by 70%  
 - Achieved 60% conversion rate to RFQ submission  
 - Tech: Next.js, React, Supabase, Gemini API  
 
 ---
 
-### 🔹 Emotional Plant (Hackathon Project)  
+### 🔹 Cards Against Redditors  🎴
+Play real Reddit comments as “weapons” in debates, judged by AI  
+*(Isek.AI ACG Buildathon 2nd Place 🥈)*
+- Real-time multiplayer using Firebase
+- Card system with ATTACK / DEFENSE / CHAOS mechanics  
+- Chaos card that literally flips the game  
+
+---
+
+### 🔹 Emotional Plant 🌱
 IoT-based smart plant system with real-time monitoring  
+*(Loophole Hackathon 3rd Runner Up)* 
 - Built a full system in under 24 hours  
 - Integrated sensors + mobile app + API  
 - Tech: Raspberry Pi, Flask, Kotlin  
 
 ---
 
-### 🔹 Charity Management System  
-Java-based system with custom data structures  
-- Built SortedDoublyLinkedList from scratch  
-- Improved reporting accuracy by 30%  
-- Tech: Java, JFreeChart  
 
----
 
 ## 📫 Connect With Me
 - LinkedIn: [efyeching](https://www.linkedin.com/in/efyeching/)  
