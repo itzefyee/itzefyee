@@ -58,5 +58,5 @@ Java-based system with custom data structures
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [(add link)](https://www.linkedin.com/in/efyeching/)  
-- Email: [a](mailto:efyeching@gmail.com)
+- LinkedIn: [efyeching](https://www.linkedin.com/in/efyeching/)  
+- Email: [efyeching@gmail.com](mailto:efyeching@gmail.com)
