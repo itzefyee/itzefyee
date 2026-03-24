@@ -44,7 +44,7 @@ I build full-stack and backend-focused systems that solve real-world problems, f
 | 🛠️ Projects & Descriptions | 🏆Hackathon & Awards Won | 🔗 Project Repository |
 |-------------------|-----------------------------------------------|-----------------------|
 |  **🤖 SteelSmart: AI Marketplace**  <br> ➝ AI-powered CAD generation + RFQ workflow platform | <p align="center"> **Cursor X Anthropic Hackathon 2025** <br> Convex Track 2nd Place 🥈 <br><br> **NextUp Hackathon TARUMT 2025** <br> Bronze Award 🥉</p>  | <p align="center"> [Project Repo](https://github.com/itzefyee/SteelSmart) </p> |
-|  **🎴 Cards Against Redditors**  <br> ➝ Play real Reddit comments as “weapons” in debates, judged by AI | <p align="center">**Isek.AI ACG Buildathon 2025** <br>2nd Place 🥈</p>  | <p align="center"> [Project Repo](https://github.com/itzefyee/cards-against-redditors) </p> |
+|  **🎴 Cards Against Redditors**  <br> ➝ Play Reddit comments as “weapons” in debates, judged by AI | <p align="center">**Isek.AI ACG Buildathon 2025** <br>2nd Place 🥈</p>  | <p align="center"> [Project Repo](https://github.com/itzefyee/cards-against-redditors) </p> |
 |  **🌱 Emotional Plant**  <br> ➝ IoT-based smart plant system with real-time monitoring   | <p align="center">**Loophole Hackathon 2025** <br>3rd Runner Up 🎯</p>  | <p align="center"> [Project Repo](https://github.com/itzefyee/WaterYourPlant) </p> |
 
 ## ⚡️ Stats
