@@ -34,10 +34,12 @@
 </p>
 
 ## 🚀 About Me
-I build full-stack and backend-focused systems that solve real-world problems, from AI-powered marketplaces to enterprise reporting tools.
+I like building things that are a bit chaotic… but actually work.
+
+Most of what I do sits somewhere between backend systems, real-world problem solving, and occasionally questionable ideas that turn into working products.
 
 - 🎯 Interested in: Backend Engineering, Cloud Systems, Scalable Applications  
-- 🌱 Currently: modernising a legacy palm‑oil ERP with micro‑prototypes of key flows 
+- 🌱 Currently: Modernising a legacy palm‑oil ERP with micro‑prototypes of key flows 
 
 ## 💡 Favorite Projects
 
