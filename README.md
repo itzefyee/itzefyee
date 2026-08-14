@@ -50,14 +50,8 @@ Most of what I do sits somewhere between backend systems, real-world problem sol
 |  **🌱 Emotional Plant**  <br> ➝ IoT-based smart plant system with real-time monitoring   | <p align="center">**Loophole Hackathon 2025** <br>3rd Runner Up 🎯</p>  | <p align="center"> [Project Repo](https://github.com/itzefyee/WaterYourPlant) </p> |
 
 ## ⚡️ Stats
-
-<br>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=itzefyee&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="itzefyee's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=itzefyee&theme=transparent&count_private=true&border_radius=10&locale=en" alt="itzefyee's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=itzefyee&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="itzefyee's Most Used Languages" />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=itzefyee&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=itzefyee&layout=compact&langs_count=4&theme=transparent)
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=itzefyee&theme=transparent&count_private=true&border_radius=10&locale=en" alt="itzefyee's" />
 
 ## 🐍 My Contributions
 
